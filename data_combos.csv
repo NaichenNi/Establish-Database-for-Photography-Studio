@@ -1,0 +1,12 @@
+1,primary_single,single,no,no,no,10
+2,junior_single,single,yes,no,no,20
+3,senior_single,single,yes,yes,no,30
+4,package_single,single,yes,yes,yes,50
+5,primary_double,double,no,no,no,10
+6,junior_double,double,yes,no,no,20
+7,senior_double,double,yes,yes,no,30
+8,package_double,double,yes,yes,yes,50
+9,primary_group,group,no,no,no,10
+10,junior_group,group,yes,no,no,20
+11,senior_group,group,yes,yes,no,30
+12,package_group,group,yes,yes,yes,50
